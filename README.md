@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on awsome personal projects
+- 🔭 I’m currently working on awesome personal projects
 - 🌱 I’m currently learning cool things
 - 💬 Ask me about anything
 
